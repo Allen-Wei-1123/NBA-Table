@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+}
+
+//navigation bar
+#navbar{
+    border-bottom: 1px solid lightgrey;
+    height: 55px;
+}
+
+#teams{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+#years{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#btn{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+
+//front view
+#front{
+
+    margin: 0 auto;
+    height: 500px;
+    background-color:#fafafa;
+}
+
+
+#title{
+    font-size: 30px;
+    font-weight: bold;
+}
+#title-view{
+    
+    text-align: center;
+    padding-top: 200px;
+}
+#form-view{
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#form-view form input{
+    width: 50%;
+    
+}
+
+
+//table view in second page
+#table{
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
