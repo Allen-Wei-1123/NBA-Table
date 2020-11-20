@@ -11,3 +11,6 @@ This is a React app that allow users to search the players on each team from sea
 2.Provided extra sorting functions that allow users to sort the table in ascending order based on name, age, and points,rebounds,assists per game.<br/><br/>
 3.Utilized Node.js to convert a csv file to JSON and used Express to build a REST API from the JSON file. <br/><br/>
 4.Fetched JSON data from REST API using Axios and map all the player information into a table. <br/><br/>
+
+# Video
+https://youtu.be/kv6y9tGmwpM
